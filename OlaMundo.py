@@ -1,2 +1,2 @@
-print('ola, mundo!')
-
+nome = input('Digite seu nome:')
+print('Ola,'+ nome + '!')
